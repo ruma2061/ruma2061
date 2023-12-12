@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi... 👋
 
-<!--
-**ruma2061/ruma2061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on creating internal tools for CU Boulders Office of Information Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently studying Aerospace Engineering at the University of Colorado Boulder minoring in computer science
+
+- 👯 I’m looking to collaborate on web development projects
+
+- 🤔 I’m looking for help with learning system design and full-stack web development
+
+- 📫 How to reach me: Carrier Pidgeon (ruma2061@colorado.edu)
+
+- ⚡ Fun fact: The T-rex existed closer to humans than it did the Stegosaurus.
+
